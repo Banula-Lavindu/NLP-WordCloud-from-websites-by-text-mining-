@@ -86,6 +86,9 @@ plt.axis('off')
 plt.show()
 ```
 
+![Word Cloud Example](wordcloud.png)
+
+
 ## Dependencies
 
 - Python 3.x
