@@ -7,7 +7,7 @@ This Python script fetches content from a website, analyzes its word frequencies
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/website-word-cloud.git
+   https://github.com/Banula-Lavindu/NLP-WordCloud-from-websites-by-text-mining-.git
    ```
 2. Navigate to the project directory:
    ```bash
