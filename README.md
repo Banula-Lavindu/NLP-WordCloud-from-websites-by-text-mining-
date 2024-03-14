@@ -1,27 +1,6 @@
 
 # Website Word Cloud Generator
 
-This Python script fetches content from a website, analyzes its word frequencies, and generates a word cloud visualization.
-
-## Usage
-
-1. Clone the repository:
-   ```bash
-   https://github.com/Banula-Lavindu/NLP-WordCloud-from-websites-by-text-mining-.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd website-word-cloud
-   ```
-3. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-4. Run the script:
-   ```bash
-   python generate_word_cloud.py
-   ```
-
 ## Description
 
 This script extracts text content from a specified website, tokenizes it, and calculates word frequencies. It then generates a word cloud to visualize the frequency distribution of words present in the content.
